@@ -1,6 +1,6 @@
 # Solarized Darker Theme for IntelliJ
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/glacion/idea-solarized-darker/master/screenshot.png)
 
 Slightly modified version of the Material Solarized Dark theme,
 in order for the colorscheme to have more matching colors with the Material Darker theme.
