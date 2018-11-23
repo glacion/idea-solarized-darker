@@ -1,10 +1,10 @@
 <scheme name="Material Solarized Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-11-23T22:10:57</property>
+    <property name="created">2018-11-23T22:50:36</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-23T22:11:03</property>
+    <property name="modified">2018-11-23T22:50:43</property>
     <property name="originalScheme">Material Solarized Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro Semibold" />
@@ -42,8 +42,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2b4e58" />
     <option name="SELECTED_INDENT_GUIDE" value="2d5059" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
-    <option name="SELECTION_BACKGROUND" value="212121" />
-    <option name="SELECTION_FOREGROUND" value="212121" />
+    <option name="SELECTION_BACKGROUND" value="121212" />
     <option name="SEPARATOR_BELOW_COLOR" value="113a46" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="586e75" />
